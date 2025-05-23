@@ -3,7 +3,8 @@
 ## About Me
 -I am Zukhanye, a passionate third-year IT student based in Cape Town, South Africa. With a strong foundation in full-stack web development, I enjoy building practical and user-friendly applications that solve real-world problems. My interests lie in software development, database design, and creating seamless digital experiences. I’m eager to continue learning and growing in the tech industry while contributing to impactful projects.
 
-- Contact info 
+Contact info
+  
 Email;anelebenniemene8@gmail.com
 
 LinkedIn: Zukhanye Anele Mene.
