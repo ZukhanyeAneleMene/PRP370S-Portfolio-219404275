@@ -23,45 +23,77 @@ Action: I took an assesment on the career counselling, discussed my academic bac
 Result: Gained clear direction on targeting backend/cloud roles and updated my career plan with SMART goals.
 
 
+
+
 SKILLS AND INTERESTS
+
 Evidence
+
 ![Skills and Instrest](https://github.com/user-attachments/assets/97f0d0eb-6493-4509-8d10-8fa5d6b3eb7b)
 
 
 Reflection: STAR Technique 
+
 Situation: I wanted to clearly identify my strongest technical skills and align them with my career interests.
+
 Task: Compile a structured inventory of skills backed by project examples.
+
 Action: Analyzed my project contributions, listed technical tools I’ve used, and matched them with career options like Full-stack or Cloud Support Engineer.
+
 Result: Created a well-documented skills section with examples linked to real projects.
 
+
+
 PERSONALITY ASSESSMENT
+
 Evidence
+
 ![Personality Assessment](https://github.com/user-attachments/assets/4da91da5-afd6-4851-8273-f99a0946ac8d)
 
 Reflection: STAR Technique 
+
 Situation: I needed to better understand my personality to guide career choices and team roles.
+
 Task: Take a personality test and reflect on how traits affect my learning and teamwork.
+
 Action: Took the 16Personalities test and reviewed results with a mentor to interpret outcomes.
+
 Result: Found I’m a logical and structured thinker, which aligns with backend and QA roles; I now actively seek team projects where I can lead debugging or planning phases.
 
+
+
 CREATE A CV
+
 Evidence 
+
 ![Create CV](https://github.com/user-attachments/assets/7e4631ef-fa61-4466-9bef-4447259e08d8)
 
 Reflection: STAR Technique 
+
 Situation: My previous CV was outdated and didn’t reflect my technical growth.
+
 Task: Create a CV that highlights my IT skills and project work.
+
 Action: Collected relevant details, followed modern CV format tips, and asked for feedback from my lecturer.
+
 Result: Produced a polished CV tailored to software roles, which I’ve used to apply for internships.
 
+
+
 CV SUBMISSION
+
 Evidence 
+
 ![CV Submission](https://github.com/user-attachments/assets/aa173444-930b-496e-ac94-b1b08b9498ca)
 
 Reflection: STAR Technique 
+
 Situation: As part of my career readiness goals, I needed to submit a professional CV.
+
 Task: Ensure my CV was submitted correctly and made publicly accessible.
+
 Action: Verified submission on the platform and embedded the CV in my portfolio website.
+
 Result: Received confirmation of submission; CV now serves as the first impression for potential employers visiting my site.
 
 
