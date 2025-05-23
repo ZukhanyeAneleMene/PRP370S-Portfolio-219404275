@@ -13,10 +13,15 @@ Evidence
 ![Career Counselling ](https://github.com/user-attachments/assets/4ecd03da-762e-4e26-875f-8aff3879e973)
 
 Reflection: STAR Technique 
+
 Situation: I was uncertain about which specific IT career path to focus on.
+
 Task: I needed to gain clarity on my strengths and career direction.
+
 Action: I took an assesment on the career counselling, discussed my academic background, interests, and side projects.
+
 Result: Gained clear direction on targeting backend/cloud roles and updated my career plan with SMART goals.
+
 
 SKILLS AND INTERESTS
 Evidence
